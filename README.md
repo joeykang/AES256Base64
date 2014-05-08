@@ -1,7 +1,7 @@
 AES256Base64
 ============
 
-Goal: Encrypt with AES256 and then Encode with Base64
+Goal: Encrypt text string with AES256 and then Encode with Base64
 
 Procedure:
 - Add NSData+AES256 category
